@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#outer {
+    width: 580px;
+    height: 480px;
+    position: relative;
+    left: 40%;
+    margin: 290px 0 ;
+ 
+}
+
+#button {
+    position: absolute;
+    left: 40%;
+}
